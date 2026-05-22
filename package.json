@@ -1,0 +1,27 @@
+{
+  "name": "cs-5610-project-1-your-personal-home-page",
+  "version": "1.0.0",
+  "description": "Personal homepage and portfolio for Priamos Koumas - CS5610 Project 1",
+  "main": "js/main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/priamos-koumas/CS-5610---Project-1-Your-personal-home-page.git"
+  },
+  "keywords": [],
+  "author": "Priamos Koumas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/priamos-koumas/CS-5610---Project-1-Your-personal-home-page/issues"
+  },
+  "homepage": "https://github.com/priamos-koumas/CS-5610---Project-1-Your-personal-home-page#readme",
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.4.0",
+    "globals": "^17.6.0",
+    "prettier": "^3.8.3"
+  }
+}
