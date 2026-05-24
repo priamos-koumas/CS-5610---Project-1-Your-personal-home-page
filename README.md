@@ -98,6 +98,8 @@ Instructor: John Alexis Guerra Gomez
   https://getbootstrap.com/docs/5.0/components/accordion/
 - Bootstrap Documentation
   https://getbootstrap.com/docs/5.3/
+- Bootstrap Accordion & Collapse Events
+  https://getbootstrap.com/docs/5.0/components/accordion/
 
 **Glassmorphism Effect:**
 - Stack Overflow — Glassmorphic Navbar
@@ -122,6 +124,8 @@ Instructor: John Alexis Guerra Gomez
 **Audio:**
 - Pixabay — Bouzouki Music (Royalty Free)
   https://pixabay.com/music/search/bouzouki/
+- W3Schools HTML Audio DOM API
+  https://www.w3.org/html/html5_audio.asp
 
 **Other References:**
 - MDN Web Docs
