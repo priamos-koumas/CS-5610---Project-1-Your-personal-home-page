@@ -4,11 +4,11 @@
 ## Project Objective
 A personal homepage built using vanilla HTML5, CSS3, and ES6+ JavaScript. The site serves as a digital portfolio showcasing my education, work experience, technical skills, and personal interests. It is designed for recruiters, professors, and peers who want to learn more about my background and qualifications.
 
-## Screenshot
-![Homepage Screenshot](images/screenshot.png)
+## Screenshot/Thumbnail
+https://raw.githubusercontent.com/priamos-koumas/CS-5610---Project-1-Your-personal-home-page-priamos/main/images/thumbnail.png
 
 ## Live Demo
-[View Live Site](https://priamos-koumas.github.io/CS-5610---Project-1-Your-personal-home-page)
+[View Live Site](https://priamos-koumas.github.io/CS-5610---Project-1-Your-personal-home-page-priamos)
 
 ## Pages
 - **Home** — Welcome page with Greek philosopher background
