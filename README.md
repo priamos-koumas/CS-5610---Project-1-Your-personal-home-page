@@ -51,7 +51,7 @@ CS 5610 Web Development — Northeastern University
 Instructor: John Alexis Guerra Gomez
 [Class Website](https://johnguerra.co/classes/webDevelopment_online_spring_2026/index.html)
 
-## GenAI Usage
+**1. GenAI Usage**
 **Tool:** Claude by Anthropic (claude.ai)
 **Version:** Claude Sonnet 4.6
 
@@ -65,6 +65,16 @@ Instructor: John Alexis Guerra Gomez
 - Explained CSS measurement units and when to use each one
 - Clarified CSS property syntax and how to properly format declarations
 - Helped understand Bootstrap grid classes and how to combine them with custom CSS
+
+**2. GitHub Copilot**
+**Version:** Latest (integrated in VS Code)
+
+**How it was used:**
+- Auto-completed HTML tags and attributes while typing
+- Suggested CSS property values and completions
+- Completed repetitive code patterns such as navbar list items and accordion items
+- Suggested closing tags and matching brackets automatically
+- Provided inline code completions for Bootstrap class names
 
 **Prompts used:**
 - "Generate a resume page layout using Bootstrap 5 for my personal homepage"
